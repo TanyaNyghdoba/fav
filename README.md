@@ -1,2 +1,2 @@
 # fav
-pkaswork.github.io/fav
+http://TanyaNyghdoba.github.io/fav
